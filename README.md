@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juaniarrigoni
 - 👀 I’m interested in enterpreneur, criptos, finances
-- 🌱 I’m currently learning javascript and frameworks
+- 🌱 I’m currently finishing the Full Stack web Developer Carrer at Henry.com
 - 📫 How to reach me, contact me in juani.arrigoni@gmail.com
 
 <!---
