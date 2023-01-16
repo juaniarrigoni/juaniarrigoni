@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @juaniarrigoni
-- 👀 I’m interested in finances, bussisness and tech
-- 🌱 I’m currently studyung systems engineering in UTN
-- 📫 How to reach me: juani.arrigoni@gmail.com
-- 💻 react || bootstrap || express || mongodb || mongoose || css-grid || cloudinary || node-js || firebase-auth || nodemailer || paypal-checkout || stripe-checkout || redux-toolkit
-
-
-
 ## Hey 👋, I'm Juani Arrigoni!  
   
 
@@ -33,18 +25,13 @@ Proactive and resourceful. I manage very well in any working environment, and lo
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+<table><tr><td valign="top" width="50%"> 
   
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 👀 I’m interested in finances, bussisness and tech
   
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🌱 I’m currently studyung systems engineering in UTN
   
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- 📫 How to reach me: juani.arrigoni@gmail.com  
 
 
 </td><td valign="top" width="50%">
