@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juaniarrigoni
 - 👀 I’m interested in finances, bussisness and tech
 - 🌱 I’m currently studyung systems engineering
-- 📫 How to reach me, contact me in juani.arrigoni@gmail.com
+- 📫 How to reach me: juani.arrigoni@gmail.com
 - 💻 react || bootstrap || express || mongodb || mongoose || css-grid || cloudinary || node-js || firebase-auth || nodemailer || paypal-checkout || stripe-checkout || redux-toolkit
