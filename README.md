@@ -27,7 +27,7 @@ Proactive and resourceful. I manage very well in any working environment, and lo
 ## About Me  
 <table><tr><td valign="top" width="50%"> 
   
-- 👀 I’m interested in finances, bussisness and tech
+- 👀 I’m interested in finances, business and tech
   
 - 🌱 I’m currently studyung systems engineering in UTN
   
